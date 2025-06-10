@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/janvipargai1/Mini-car-sales-analysis/blob/main/car_sales_analysis.ipynb)
-
 Car Sales Data Analysis Project 🚗📊
 
 A mini data analysis project using Python to explore car sales performance across various metrics. This project is beginner-friendly and demonstrates skills in data cleaning, analysis, and visualization.
